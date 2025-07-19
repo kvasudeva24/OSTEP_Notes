@@ -6,18 +6,5 @@ Persistence
 https://docs.google.com/document/d/1jRikv2Mwy3VyCmmP3AvggaTBtqil79-tyFL0jwH0zBo/edit?usp=sharing <-- Notes w Formatting
 
 
-Virtualization:
-The OS virtualizes physical resources (CPU, memory, disks) such that each process thinks that they have exclusive access to these resources (virtual address space)
-
-
-Concurrency:
-When multiple processes are in progress at the same time 
-Threads are functions that share memory – functions that run independently but share the same data
-
-
-Persistence:
-Saving data so it stays around even after the computer is turned off 
-The software in the operating system that usually manages the disk is called the file system
-the OS does not create a private, virtualized disk for each application
-Open, close, and write are the system calls to access the disk safely 
+Updated(7/19)
 
